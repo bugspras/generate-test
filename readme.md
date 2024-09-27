@@ -1,1 +1,1 @@
-soal test
+soal test logic sederhana
